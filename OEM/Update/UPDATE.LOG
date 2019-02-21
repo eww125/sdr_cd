@@ -1,0 +1,21 @@
+[Files]
+Version=6.0.0.2
+ServicePack=0
+ServiceProPack=0
+OEMClientName=Qiangshi_RealTek_DVBT
+
+[Dialog]
+UpdateTitle=BlazeVideo Update
+CheckingDesc=Checking upgrade, please wait a minute...
+CheckFailedDesc=Checking finished, no available upgrade.
+UpgradeProfessionDesc=Click the below purchase links to upgrade the professional version.
+CheckSucceededDesc=New version{Version} is available, upgrade?
+UpgradeTip=New version has been downloaded, upgrade now?
+CloseAppDesc=Please shup down %s and click on retry to install upgrade
+DownloadingDesc=Downloading
+PurchasePage=Purchase.html
+PurchasePageWeb=http://www.blazevideo.com/upgrade/Purchase.html
+PurchasePageHeight=180
+InstallDesc=Install
+CancelDesc=Cancel
+UpgradeFinished=Upgrade finished
